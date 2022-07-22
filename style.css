@@ -20,7 +20,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3E;
+  color:#EF6D3D;
 }
 a:focus {
   outline: thin dotted;
@@ -136,6 +136,5 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
-
 
 
